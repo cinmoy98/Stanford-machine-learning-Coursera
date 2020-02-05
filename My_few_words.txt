@@ -1,0 +1,22 @@
+Hello,
+Everyone.......
+
+I started learning Machine learning from Stanford online which was offered by coursera in the August,2019.
+There I have to complete total 8 assignments.The assignments were awsome.Course instructor Andrew ng only taught
+the theoretical concepts.But in the assignments i have to deal with the code without any prior 
+knowledge.So these assignments were chanllenging and fun to me.
+
+Here you will find the assignments I have completed those days.
+I highly recommend the course if you want to dive into the deep of ML.
+
+
+Course Url : https://www.coursera.org/learn/machine-learning/home/welcome       
+Certificate details:
+
+Name:
+Machine Learning
+Issuing Organization:         Coursera
+Issue Date:                   February 2020
+Expiration Date:              (blank - toggle the checkbox for This certification does not expire)
+Credential ID:                PHZ7FXH5W8RW
+Credential URL:               https://www.coursera.org/account/accomplishments/verify/PHZ7FXH5W8RW     
